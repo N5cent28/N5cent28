@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N5cent28
+- 👋 Hi, I’m @N5cent28, Stem Cell researcher and budding data scientist
 - 👀 I’m interested in using computational methods to elucidate novel biological processes
 - 🌱 I’m currently learning Statistical Modeling for Data Science
 - 💞️ I’m looking to collaborate your ongoing projects!
