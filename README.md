@@ -12,7 +12,7 @@
 - 👀 I’m interested in using computational methods to elucidate novel biological processes
 - 📄 Check out my **[website!](https://noahnicol.xyz/)**
 - 📫 Reach me at: **noahryannicol@gmail.com** or 
-  <a href="[https://www.linkedin.com/in/noah-nicol-2a0163144/]" target="_blank">
+  <a href="https://www.linkedin.com/in/noah-nicol-2a0163144/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="24" align="top" />
   </a>
 
