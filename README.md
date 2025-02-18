@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 👋 Hi, I’m @N5cent28, stem cell researcher and bioinformatic scientist**
+- 👋 **Stem cell researcher** and **bioinformatic scientist**
 - 👀 I’m interested in using computational methods to elucidate novel biological processes
 - 📄 Check out my **[website!](https://noahnicol.xyz/)**
 - 📫 Reach me at: **noahryannicol@gmail.com** or 
@@ -41,14 +41,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N5cent&theme=noctis-minimus&hide_border=true&background=00000000" alt="GitHub Stats" />
-</p>
-
-<!---
-<h3 align="center">
-  Check out my <img src="https://github.com/nranabhat/nranabhat/blob/main/readme_stuff.svg" alt="repos" style="vertical-align: bottom;"> 👇
-</h3>
--->
