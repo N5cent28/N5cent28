@@ -1,8 +1,8 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="90%">
 
 <!-- TYPING DATA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4af9ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+%F0%9F%91%8B+I'm+Noah;A+recent+Biomedical+Data+Science+graduate+from+UW-Madison.;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4af9ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+%F0%9F%91%8B+I'm+Noah;Biomedical+DS+graduate+from+UW-Madison.;Welcome+to+my+profile!">
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 👋 Hi, I’m @N5cent28, stem cell researcher and bioinformatic scientist**
 - 👀 I’m interested in using computational methods to elucidate novel biological processes
 - 📄 Check out my **[website!](https://noahnicol.xyz/)**
-- ⚡ Fun fact: I play professional ultimate frisbee!
 - 📫 Reach me at: **noahryannicol@gmail.com** or 
   <a href="[https://www.linkedin.com/in/noah-nicol-2a0163144/]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="24" align="top" />
